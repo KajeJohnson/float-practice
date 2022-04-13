@@ -1,0 +1,78 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+    padding: 0% 5%;
+    width: 100%;
+    height: 100%;
+    @import url(@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+    </style>);
+    font-family: 'Nanum Brush Script', cursive;
+    background-color: #ccc;
+}
+
+.image-container {
+    width: 300px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid grey;
+    box-shadow: 10px 5px 0px #ddd;
+}
+
+.image-container img {
+    width: 100%;
+}
+
+#image-1 {
+    float: right;
+    margin: 40px;
+    border-color: #ddd;
+}
+
+.p-1 {
+    clear: left;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-right: auto; /* 1 */
+    margin-left:  auto; /* 1 */
+  
+    max-width: 800px; /* 2 */
+  
+    padding-right: 10px; /* 3 */
+    padding-left:  10px; /* 3 */
+  }
+}
+
+#image-2 {
+    float: left;
+    margin-right: 40px;
+    margin-top: 20px;
+    border-color: #ddd;
+}
+
+.p-2 {
+    clear: right;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-right: auto; /* 1 */
+    margin-left:  auto; /* 1 */
+  
+    max-width: 800px; /* 2 */
+  
+    padding-right: 10px; /* 3 */
+    padding-left:  10px; /* 3 */
+  }
+}
+
+.header {
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+    </style>
+    font-family: 'Seaweed Script', cursive;
+}
+
+
+/* .p-2:first-child{} */
